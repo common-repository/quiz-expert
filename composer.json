@@ -1,0 +1,17 @@
+{
+    "name": "wepupil/wepupil-plugin",
+    "description": "Used for wepupil plugin",
+    "type": "project",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "Wepupil",
+            "email": "wepupilteam@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {"Inc\\": "./inc"}
+    }
+}

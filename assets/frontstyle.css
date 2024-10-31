@@ -1,0 +1,14 @@
+ #clock {
+    font-family: 'Share Tech Mono', monospace;
+    background-color: #393939;
+	border-radius: 6px;
+    color: #ffffff;
+    position: fixed;
+    top:80px;
+    right: 50px;
+    transform: translate(-50%, -50%);
+    color: #daf6ff;
+    box-shadow: 0 0 20px rgb(16, 58, 71),  0 0 20px rgba(10, 175, 230, 0);
+    padding: 20px 20px 20px;
+    
+ }
